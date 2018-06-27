@@ -2,13 +2,15 @@
 
 ## Best time
 - 1k: 3:22, 2018/June/3rd
+- 1500m: 4:55, 2018/June/24th (Onoyama
 - 3k: 11:48(3:56 mpk), 2018/May/13th, Toyosaki
 - 5k: 20:30 (4:08 mpk), 2018/April/29th, Zampa
 - 10k: 44:10, 2017/April/1st
 - 21.0k: 1:42:00, 2017/Dec/12th
 
 # Predicted Time
-- 1500m: 5:40 (3:46/km)
+- 1km: 3:22 (3:22/km)
+- 1500m: 4:55
 - 3km:	11:48(3:56/km)
 - 5km: 20:17(4:03/km)
 - 10km: 42:17(4:14/km)
@@ -19,6 +21,7 @@
 
 ## Goal Time
 - 1k: sub 3:20
+- 1500m: sub 4:50 (3:14/km)
 - 3k: sub 11:30
 - 5k: sub 20:00
 - 10k: sub 42:30
